@@ -10,7 +10,7 @@ The primary goal of this section is to build a mental framework for understandin
 
 Below is a linked table of contents for my notes on each section of this module.
 
-1.  **[Structure of InfoSec](./01-structure-of-infosec.md):** Defines InfoSec and its core components.
+1.  **[Structure of InfoSec](./01 - Structure Of Infosec.md):** Defines InfoSec and its core components.
 2.  **[Principles of Information Security](./02-principles-of-information-security.md):** Covers the foundational goals like the CIA Triad.
 3.  **[Network Security](./03-network-security.md):** An introduction to protecting network infrastructure.
 4.  **[Application Security](./04-application-security.md):** Focuses on securing software and applications.
